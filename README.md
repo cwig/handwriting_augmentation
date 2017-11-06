@@ -5,6 +5,11 @@
 python grid_distortion.py input_image.png output_image.png
 ```
  
+#### Input
+![alt text](https://github.com/cwig/handwriting_augmentation/raw/master/input_image.png)
+#### Output
+![alt text](https://github.com/cwig/handwriting_augmentation/raw/master/output_image.png)
+ 
 ## warp_image function  
 
 ```python
